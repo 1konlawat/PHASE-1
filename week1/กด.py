@@ -1,1 +1,2 @@
-print("HELLO WOLD")
+a = 2
+print(a)
